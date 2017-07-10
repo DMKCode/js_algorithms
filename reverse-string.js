@@ -7,3 +7,9 @@ function reverseString(str) {
 }
 
 reverseString("hello");
+
+// Credit freeCodeCamp
+// concise solution
+function reverseString(str) {
+  return str.split('').reverse().join('');
+}
