@@ -3,3 +3,4 @@
 
 1) Factorialize a number
 2) Reverse a string
+3) Check for palindromes
