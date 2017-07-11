@@ -4,3 +4,4 @@
 1) Factorialize a number
 2) Reverse a string
 3) Check for palindromes
+4) Longest Word in a String
